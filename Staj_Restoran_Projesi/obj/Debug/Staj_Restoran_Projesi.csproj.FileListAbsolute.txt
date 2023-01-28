@@ -1,0 +1,545 @@
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Staj_Restoran_Projesi.dll.config
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Staj_Restoran_Projesi.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Staj_Restoran_Projesi.pdb
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\csc.exe
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\csc.exe.config
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\csc.rsp
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\csi.exe
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\csi.exe.config
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\csi.rsp
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.AppContext.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Console.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.IO.Compression.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Net.Http.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.ValueTuple.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\vbc.exe
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\vbc.exe.config
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\vbc.rsp
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Antlr3.Runtime.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\EntityFramework.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\EntityFramework.SqlServer.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Newtonsoft.Json.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Helpers.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Mvc.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Optimization.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Razor.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.WebPages.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.WebPages.Razor.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\WebGrease.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\EntityFramework.xml
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\EntityFramework.SqlServer.xml
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Helpers.xml
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Mvc.xml
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Optimization.xml
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Razor.xml
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.WebPages.xml
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.WebPages.Razor.xml
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Newtonsoft.Json.xml
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Antlr3.Runtime.pdb
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.Razor.resources.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\obj\Debug\Staj_Restoran_Projesi.csprojAssemblyReference.cache
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\obj\Debug\Staj_Restoran_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\obj\Debug\Staj_Restoran_Projesi.csproj.CopyComplete
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\obj\Debug\Staj_Restoran_Projesi.dll
+C:\Users\HaSaN\source\repos\Staj_Restoran_Projesi\Staj_Restoran_Projesi\obj\Debug\Staj_Restoran_Projesi.pdb
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Staj_Restoran_Projesi.dll.config
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Staj_Restoran_Projesi.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Staj_Restoran_Projesi.pdb
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\csc.exe
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\csc.exe.config
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\csc.rsp
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\csi.exe
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\csi.exe.config
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\csi.rsp
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.AppContext.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Console.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.IO.Compression.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Net.Http.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Net.Sockets.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.ValueTuple.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\vbc.exe
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\vbc.exe.config
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\vbc.rsp
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Antlr3.Runtime.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\EntityFramework.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\EntityFramework.SqlServer.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Newtonsoft.Json.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Helpers.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Mvc.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Optimization.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Razor.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.WebPages.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.WebPages.Razor.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\WebGrease.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\EntityFramework.xml
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\EntityFramework.SqlServer.xml
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Helpers.xml
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Mvc.xml
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Optimization.xml
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Razor.xml
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.WebPages.xml
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.WebPages.Razor.xml
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Newtonsoft.Json.xml
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Antlr3.Runtime.pdb
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.Razor.resources.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\obj\Debug\Staj_Restoran_Projesi.csproj.CopyComplete
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\obj\Debug\Staj_Restoran_Projesi.dll
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\obj\Debug\Staj_Restoran_Projesi.pdb
+C:\Users\skygt\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\obj\Debug\Staj_Restoran_Projesi.csprojAssemblyReference.cache
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Staj_Restoran_Projesi.dll.config
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Staj_Restoran_Projesi.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Staj_Restoran_Projesi.pdb
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\csc.exe
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\csc.exe.config
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\csc.rsp
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\csi.exe
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\csi.exe.config
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\csi.rsp
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.AppContext.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Console.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.IO.Compression.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Net.Http.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.ValueTuple.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\vbc.exe
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\vbc.exe.config
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\vbc.rsp
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Antlr3.Runtime.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\EntityFramework.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\EntityFramework.SqlServer.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Newtonsoft.Json.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Helpers.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Mvc.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Optimization.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Razor.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.WebPages.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.WebPages.Razor.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\WebGrease.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\EntityFramework.xml
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\EntityFramework.SqlServer.xml
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Helpers.xml
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Mvc.xml
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Optimization.xml
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Razor.xml
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.WebPages.xml
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.WebPages.Razor.xml
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Newtonsoft.Json.xml
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Antlr3.Runtime.pdb
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.Razor.resources.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\obj\Debug\Staj_Restoran_Projesi.csprojAssemblyReference.cache
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\obj\Debug\Staj_Restoran_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\obj\Debug\Staj_Restoran_Projesi.csproj.CopyComplete
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\obj\Debug\Staj_Restoran_Projesi.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\obj\Debug\Staj_Restoran_Projesi.pdb
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Staj_Restoran_Projesi.dll.config
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Staj_Restoran_Projesi.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Staj_Restoran_Projesi.pdb
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\csc.exe
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\csc.exe.config
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\csc.rsp
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\csi.exe
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\csi.exe.config
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\csi.rsp
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.AppContext.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Console.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.IO.Compression.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Net.Http.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Net.Sockets.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.ValueTuple.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\vbc.exe
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\vbc.exe.config
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\vbc.rsp
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Antlr3.Runtime.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\EntityFramework.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\EntityFramework.SqlServer.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Newtonsoft.Json.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Helpers.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Mvc.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Optimization.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Razor.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.WebPages.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.WebPages.Razor.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\WebGrease.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\EntityFramework.xml
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\EntityFramework.SqlServer.xml
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Helpers.xml
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Mvc.xml
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Optimization.xml
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Razor.xml
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.WebPages.xml
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.WebPages.Razor.xml
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Newtonsoft.Json.xml
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Antlr3.Runtime.pdb
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.Razor.resources.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\obj\Debug\Staj_Restoran_Projesi.csprojAssemblyReference.cache
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\obj\Debug\Staj_Restoran_Projesi.csproj.CopyComplete
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\obj\Debug\Staj_Restoran_Projesi.dll
+C:\Users\skygt\Desktop\Yeni klasör (4)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\obj\Debug\Staj_Restoran_Projesi.pdb
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Staj_Restoran_Projesi.dll.config
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Staj_Restoran_Projesi.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Staj_Restoran_Projesi.pdb
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\csc.exe
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\csc.exe.config
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\csc.rsp
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\csi.exe
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\csi.exe.config
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\csi.rsp
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.AppContext.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Console.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.IO.Compression.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Net.Http.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.ValueTuple.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\vbc.exe
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\vbc.exe.config
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\vbc.rsp
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Antlr3.Runtime.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\EntityFramework.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\EntityFramework.SqlServer.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Newtonsoft.Json.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Helpers.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Mvc.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Optimization.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Razor.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.WebPages.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.WebPages.Razor.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\WebGrease.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\EntityFramework.xml
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\EntityFramework.SqlServer.xml
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Helpers.xml
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Mvc.xml
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Optimization.xml
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Razor.xml
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.WebPages.xml
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.WebPages.Razor.xml
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Newtonsoft.Json.xml
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Antlr3.Runtime.pdb
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.Razor.resources.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\obj\Debug\Staj_Restoran_Projesi.csprojAssemblyReference.cache
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\obj\Debug\Staj_Restoran_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\obj\Debug\Staj_Restoran_Projesi.csproj.CopyComplete
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\obj\Debug\Staj_Restoran_Projesi.dll
+C:\Users\ONUR\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\obj\Debug\Staj_Restoran_Projesi.pdb
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Staj_Restoran_Projesi.dll.config
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Staj_Restoran_Projesi.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Staj_Restoran_Projesi.pdb
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\csc.exe
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\csc.exe.config
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\csc.rsp
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\csi.exe
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\csi.exe.config
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\csi.rsp
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.AppContext.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Console.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.IO.Compression.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Net.Http.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Net.Sockets.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.ValueTuple.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\vbc.exe
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\vbc.exe.config
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\vbc.rsp
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Antlr3.Runtime.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\EntityFramework.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\EntityFramework.SqlServer.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Newtonsoft.Json.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Helpers.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Mvc.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Optimization.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Razor.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.WebPages.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.WebPages.Razor.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\WebGrease.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\EntityFramework.xml
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\EntityFramework.SqlServer.xml
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Helpers.xml
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Mvc.xml
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Optimization.xml
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.Razor.xml
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.WebPages.xml
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\System.Web.WebPages.Razor.xml
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Newtonsoft.Json.xml
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Antlr3.Runtime.pdb
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.Razor.resources.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\obj\Debug\Staj_Restoran_Projesi.csprojAssemblyReference.cache
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\obj\Debug\Staj_Restoran_Projesi.csproj.CopyComplete
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\obj\Debug\Staj_Restoran_Projesi.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\obj\Debug\Staj_Restoran_Projesi.pdb
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Gma.QrCodeNet.Encoding.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\QRCoder.dll
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Gma.QrCodeNet.Encoding.pdb
+C:\Users\skygt\Desktop\Yeni klasör (5)\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Gma.QrCodeNet.Encoding.xml
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Gma.QrCodeNet.Encoding.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\QRCoder.dll
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Gma.QrCodeNet.Encoding.pdb
+C:\Users\HaSaN\Desktop\Staj_Restoran_Projesi\Staj_Restoran_Projesi\bin\Gma.QrCodeNet.Encoding.xml
